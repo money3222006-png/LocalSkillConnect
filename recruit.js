@@ -13,7 +13,7 @@ const workersData = [
         experience: 'expert',
         employmentType: ['full-time', 'freelance'],
         skills: ['React', 'Vue.js', 'JavaScript', 'CSS', 'TypeScript'],
-        image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fiphone%2Fcomments%2F1azcyjo%2Fi_keep_finding_random_photos_saved_on_my_iphone%2F&psig=AOvVaw1w4sL6yrQrljZVCsh72-UL&ust=1771929270555000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjz-4i175IDFQAAAAAdAAAAABAE'
+        image: 'hhttps://via.placeholder.com/150?text=Sara'
     },
     {
         id: 2,
